@@ -12,3 +12,4 @@ What pokemon am I?
    '.               .'
      '-._________.-'
 
+Elecdrode?
